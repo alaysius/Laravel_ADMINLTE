@@ -21,6 +21,6 @@
 - `user:root`
 - `password`
 
-## Note: The Dashboard created using laravel framework version 8.12
+Note: The Dashboard created using laravel framework version 8.12
 
 
